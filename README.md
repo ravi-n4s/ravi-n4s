@@ -4,8 +4,6 @@ WIP
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi-n4s" alt="ravi-n4s" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yetopub" target="blank"><img src="https://img.shields.io/twitter/follow/yetopub?logo=twitter&style=for-the-badge" alt="yetopub" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-n4s&show_icons=true&locale=en&layout=compact" alt="ravi-n4s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi-n4s&show_icons=true&locale=en" alt="ravi-n4s" /></p>
