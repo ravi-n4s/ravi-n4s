@@ -12,5 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi-n4s&show_icons=true&locale=en" alt="ravi-n4s" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-n4s&show_icons=true&locale=en&layout=compact" alt="ravi-n4s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-n4s&show_icons=true&locale=en&layout=compact" alt="ravi-n4s" /></p>
